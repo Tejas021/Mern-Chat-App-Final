@@ -1,0 +1,27 @@
+.user {
+  width: 20%;
+  text-align: left;
+  padding: 15px;
+  border-radius: 10%;
+  margin: 10px;
+}
+.notuser {
+  width: 20%;
+  text-align: left;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 10%;
+}
+
+.messagebox {
+  padding: 5% 0;
+  overflow: auto;
+  flex: auto;
+}
+.chat {
+  width: 300px;
+  border: solid 1px #eee;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
